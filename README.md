@@ -1,1 +1,1 @@
-# TicTacToy game for android
+# TicTacToy game
